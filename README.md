@@ -1,8 +1,10 @@
 # Technical challenge
 
-Become the product manager of [intern.camp](https://intern.camp) for a day.
+**Become the product manager of [intern.camp](https://intern.camp) for a day.**
 
 [intern.camp](https://intern.camp) is a platform for the best short-term internships. It sets itself apart by the way it selects and presents companies, and by focusing on what interns can learn.
+
+Tackle the tasks below and write down your thoughts. More than definite answers, we want to know how you would look for the answers. Feel free to ask us any questions.
 
 ## Research materials
 
@@ -12,13 +14,13 @@ Become the product manager of [intern.camp](https://intern.camp) for a day.
 
 ## Tasks
 
-1. Definir os perfis de utilizadores do intern.camp (idade, actividade/profissão, educação, género …);
-2. Definir qual as necessidades que os levam ao intern.camp;
-3. Quais são as funcionalidades ("jobs-to-be-done") actuais do produto?
-4. Que métricas definirias para avaliar a sua performance?
-5. Qual o mercado actual do produto? Qual seria a tua estratégia de expansão (localização, áreas...)?
-6. Qual seria a tua estratégia de marketing para o produto?
-7. Identificar o modelo de negócio actual e definir uma estratégia para a sustentabilidade financeira do produto.
+1. Who are the user types of intern.camp (age, activity/profession, education, gender…)?
+2. What needs take them to intern.camp?
+3. What are the current features ("Jobs to be done") of the product?
+4. Which metrics would you use to evaluate the product performance?
+5. What is the current market focus of the product? What would be your expansion/growth strategy (location, areas, users...)?
+6. What would be your marketing strategy?
+7. What is the current business model? What would be your strategy to ensure financial sustainability?
 
 ---
 
